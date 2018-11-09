@@ -87,6 +87,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Official MTProxy, written in C
 * [mtprotoproxy](https://github.com/alexbers/mtprotoproxy) - Unofficial MTProxy, written in Python
 * [mtproto_proxy](https://github.com/seriyps/mtproto_proxy) - Unofficial MTProxy, written in Erlang
+* [mtg](https://github.com/9seconds/mtg) - Unofficial MTProxy, written in Go
 
 ## Misc
 
